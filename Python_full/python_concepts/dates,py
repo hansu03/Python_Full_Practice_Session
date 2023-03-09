@@ -1,0 +1,28 @@
+#import datetime module and display current date
+
+import datetime
+x = datetime.datetime.now()
+print(x)
+
+
+
+
+# creating date output
+import datetime
+
+x = datetime.datetime(2023, 3, 17)
+
+print(x)
+
+
+
+
+
+
+
+
+
+
+
+
+
